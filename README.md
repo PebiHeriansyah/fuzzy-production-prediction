@@ -13,7 +13,6 @@ Implementasi_Fuzzy_Produksi/
 ├── simulasi_interaktif.py         # CLI perbandingan Sugeno vs Mamdani untuk pengujian input baru
 ├── requirements.txt               # Daftar pustaka Python
 ├── README.md                      # Dokumentasi proyek dan ringkasan hasil
-├── LAPORAN_LENGKAP.md             # Laporan tugas (Bagian A-E dan Poin 1-5)
 └── output/                        # Hasil CSV dan grafik
     ├── grafik_fungsi_keanggotaan.png
     ├── grafik_mamdani_centroid_data10.png
